@@ -4,7 +4,7 @@ import pandas as pd
 import emoji
 from indic_transliteration.sanscript import transliterate, ITRANS, TELUGU
 
-API_KEY = ""
+API_KEY = "" #please place your yputube API key
 
 # 🔹 List of Telugu YouTube Video IDs
 VIDEO_IDS = [
