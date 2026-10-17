@@ -154,21 +154,4 @@ Open and run the notebooks in `ML_Models_Bert/`, `ML_Models_Fasttext/`, or `ML_M
 
 > FastText achieves the best accuracy, likely due to its strong word-level representations for morphologically rich languages like Telugu.
 
----
 
-## 📝 Notes
-
-- Notebooks were originally developed in **Google Colab**. File paths use `/content/drive/MyDrive/...` — update these to your local paths if running locally.
-- The YouTube API key in `telugu_comments_api.py` is intentionally left blank. Add your own key from [Google Cloud Console](https://console.cloud.google.com/).
-
----
-
-## 👤 Author
-
-**Vignesh Kothuri**
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
